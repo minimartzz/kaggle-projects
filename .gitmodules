@@ -1,0 +1,9 @@
+[submodule "kaggle-rainfall-prediction"]
+	path = kaggle-rainfall-prediction
+	url = https://github.com/minimartzz/kaggle-rainfall-prediction.git
+[submodule "kaggle-abalone"]
+	path = kaggle-abalone
+	url = https://github.com/minimartzz/kaggle-abalone.git
+[submodule "poison-mushrooms"]
+	path = poison-mushrooms
+	url = https://github.com/minimartzz/poison-mushrooms.git
