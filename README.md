@@ -40,7 +40,7 @@ Collates all the repos related to all the Kaggle projects I have worked on for e
 
 1. [Abalone Prediction](https://github.com/minimartzz/kaggle-abalone)
 2. [Poison Mushroom Identification](https://github.com/minimartzz/poison-mushrooms)
-3. [Rainfall Prediction](https://github.com/minimartzz/kaggle-rainfall-prediction)
+3. [Podcast Listening Time](https://github.com/minimartzz/podcast-listening-time)
 
 ## :bookmark_tabs: Details on Data
 

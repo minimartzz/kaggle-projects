@@ -4,3 +4,6 @@
 [submodule "poison-mushrooms"]
 	path = poison-mushrooms
 	url = https://github.com/minimartzz/poison-mushrooms.git
+[submodule "podcast-listening-time"]
+	path = podcast-listening-time
+	url = https://github.com/minimartzz/podcast-listening-time
