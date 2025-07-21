@@ -41,6 +41,7 @@ Collates all the repos related to all the Kaggle projects I have worked on for e
 1. [Abalone Prediction](https://github.com/minimartzz/kaggle-abalone)
 2. [Poison Mushroom Identification](https://github.com/minimartzz/poison-mushrooms)
 3. [Podcast Listening Time](https://github.com/minimartzz/podcast-listening-time)
+4. [DRW Crypto Market Prediction](https://github.com/minimartzz/drw-crypto-market-prediction)
 
 ## :bookmark_tabs: Details on Data
 
