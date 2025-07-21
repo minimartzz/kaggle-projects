@@ -7,3 +7,6 @@
 [submodule "podcast-listening-time"]
 	path = podcast-listening-time
 	url = https://github.com/minimartzz/podcast-listening-time
+[submodule "drw-crypto-market-prediction"]
+	path = drw-crypto-market-prediction
+	url = https://github.com/minimartzz/drw-crypto-market-prediction.git
